@@ -96,7 +96,7 @@ a:visited {
 }
 #slide1 h2 {
 	font-size: 1.5em;
-	color: #8a8683;
+	color: #2e5266;
 	line-height: 0px;
 	padding-bottom:20px;
 	font-weight: 200;
@@ -163,6 +163,13 @@ a:visited {
 	padding-bottom:20px;
 	font-weight: 400;
 }
+
+#slide3 p {
+	color: #FFFFFF;
+	font-family: 'Norpeth';
+}
+
+
 #test{
 	background-color:#bde2df;
 	color:#ffffff;
@@ -170,6 +177,25 @@ a:visited {
 	font-size: 2em;
 	font-weight: 400;
 }
+
+/*.citycontent {
+	margin-top: 20px;
+}*/
+
+.citycontent img {
+	width: 30%;
+	height: auto;
+	left: 40px;
+	padding: 20px;
+}
+
+.citycontent h2 {
+	font-family: 'Norpeth';
+	margin: 0,20,20,0;
+	font-weight: 300;
+	font-size: 1.5em;
+}
+
 
 
 
@@ -196,6 +222,13 @@ a:visited {
 	padding-bottom:20px;
 	font-weight: 400;
 }
+
+#slide4 img {
+	width: 40%;
+	height: auto;
+	
+}
+
 
 
 
