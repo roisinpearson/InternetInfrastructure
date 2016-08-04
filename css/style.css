@@ -121,7 +121,7 @@ a:visited {
 	color:#ffffff;
 	left: 5%;
 	/*top: 5%;*/
-	height: 50%;
+	height: 70%;
 	padding: 10%;
 }
 #slide2 h1 {
@@ -195,6 +195,7 @@ a:visited {
 	margin: 0,20,20,0;
 	font-weight: 300;
 	font-size: 1.5em;
+	padding: 20px;
 }
 
 .splitright {
@@ -215,7 +216,7 @@ a:visited {
 /* Slide 4 */
 
 #slide4{
-	background-image:url('../images/sunglasses.png');
+	background-image:url('../images/lastback.png');
 	background-color:#8a8683;
 	color:#ffffff;
 }
@@ -242,7 +243,14 @@ a:visited {
 	
 }
 
-
+.splitright1 {
+	float: right;
+	width: 40%;
+	/*background-color: #D3d0CB;*/
+	padding:  50px;
+	margin-top: 10%;
+	background-color: #C8C8C8;
+}
 
 
 
@@ -285,12 +293,17 @@ a:visited {
 #decorative {
 	display:none;
 	width: 20%;
+	height: auto;
+}
+
+#decorative img {
+	width: 20%;
 }
 
 #content {
 	margin-top: 20px;
 	text-align:center;
-	width:100%;
+	width:90%;
 }
 
 #slide1 h1 {
